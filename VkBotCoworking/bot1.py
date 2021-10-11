@@ -30,7 +30,7 @@ dist=5
 
 
 
-token = 'ea0d61f9a38612093efd6be2341f5bb423d682186d8f87a7eaee626b885b5790aeddddd2fb61bca40cd46'
+token = ''
 vk = vk_api.VkApi(token=token)
 
 keyboard = {
